@@ -1,4 +1,4 @@
-package com.example.quickMaths;
+package com.example.adventure;
 
 import java.util.HashMap;
 import java.util.Map;
